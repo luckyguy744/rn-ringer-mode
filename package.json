@@ -1,0 +1,59 @@
+{
+  "_from": "rn-ringer-mode",
+  "_id": "rn-ringer-mode@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-QpPqrjKgSMKXiY7/jUOZwOkiODsGfnViF/6agxIRJ+nm+uxJUTT/1cRuNZSTiFrCq1gChXf0XJWbVpNsu/+F+w==",
+  "_location": "/rn-ringer-mode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "rn-ringer-mode",
+    "name": "rn-ringer-mode",
+    "escapedName": "rn-ringer-mode",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_shasum": "68f7bc39d60fded1740704cb2f4f07b54d77dcf8",
+  "_spec": "rn-ringer-mode",
+  "_where": "D:\\Work\\android-react",
+  "author": {
+    "name": "sunny king",
+    "email": "sunny.king1219@gmail.com",
+    "url": "https://github.com/suunyking1219"
+  },
+  "bugs": {
+    "url": "https://github.com/suunyking1219/rn-ringer-mode/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native getRingerMode, gets the ring mode of the device, Works for Android only.",
+  "homepage": "https://github.com/suunyking1219/rn-ringer-mode",
+  "keywords": [
+    "react-native",
+    "ringer-mode",
+    "android",
+    "silent",
+    "vibrate"
+  ],
+  "license": "GPL",
+  "main": "RingerMode.js",
+  "name": "rn-ringer-mode",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suunyking1219/rn-ringer-mode.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
